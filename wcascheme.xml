@@ -137,7 +137,7 @@
 <skos:altLabel xml:lang="en">Bedrock Shore</skos:altLabel>
 <skos:definition xml:lang="en">A shore type consisting of exposed bedrock.</skos:definition>
 <skos:prefLabel xml:lang="fr">Côte Rocheuse</skos:prefLabel>
-<skos:definition xml:lang="fr">Côte ou prédominet l’érosion et ou apparait le substrat</skos:definition>
+<skos:definition xml:lang="fr">Cote ou predominet l’erosion et ou apparait le substrat</skos:definition>
 <skos:altLabel xml:lang="fr">Littoral Rocheux</skos:altLabel>
 <skos:prefLabel xml:lang="es">Costa de Roca Madre</skos:prefLabel>
 <skos:definition xml:lang="es">Tipo de costa compuesta por roca madre expuesta.</skos:definition>
